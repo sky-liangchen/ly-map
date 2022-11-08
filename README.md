@@ -5,5 +5,5 @@
 ## install
  
 ```
-npm install m-adds
+npm install ly-map
 ```
