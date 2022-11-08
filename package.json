@@ -10,5 +10,9 @@
     "map"
   ],
   "author": "sky-liangchen",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sky-liangchen/ly-map.git"
+  }
 }
